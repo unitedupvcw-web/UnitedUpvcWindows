@@ -1,1 +1,3 @@
-User-agent: *\nAllow: /\nSitemap: https://unitedupvcw-web.github.io/UnitedUpvcWindows/sitemap.xml\n
+User-agent: *
+Allow: /
+Sitemap: https://unitedupvcw-web.github.io/UnitedUpvcWindows/sitemap.xml
